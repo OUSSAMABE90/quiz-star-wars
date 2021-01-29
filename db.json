@@ -39,5 +39,6 @@
       "success": "#4CAF50"
     },
     "borderRadius": "4px"
+    // Update from 4px to 6px
   }
 }
